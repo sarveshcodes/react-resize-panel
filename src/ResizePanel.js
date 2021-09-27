@@ -155,11 +155,11 @@ class ResizePanel extends React.Component {
     );
 
     // Insert the handle at the beginning of the content if our directio is west or north
-    if (direction === "w" || direction === "n") {
-      content.unshift(handle);
-    } else {
-      content.push(handle);
-    }
+//     if (direction === "w" || direction === "n") {
+//       content.unshift(handle);
+//     } else {
+//       content.push(handle);
+//     }
 
     return (
       <div
