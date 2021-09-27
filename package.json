@@ -1,5 +1,5 @@
 {
-  "name": "react-resize-panel",
+  "name": "react-resize-panel-custom",
   "version": "0.3.6",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
